@@ -1,0 +1,1 @@
+Write an abstract class "Vehicle" with an abstract method "start()" which will be implemented by its two subclasses "Car" and "Bike". Implement these classes and demonstrate how they start.
